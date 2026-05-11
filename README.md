@@ -1,4 +1,4 @@
-# Classificadores - SVM e Bayesianos
+# Classificadores - SVM e Bayesianos - Projeto educacional
 
 Projeto educacional de Machine Learning para classificacao supervisionada de qualidade/aceitacao de carros, usando um notebook Jupyter com comparacao entre modelos bayesianos/discriminantes e SVM.
 
